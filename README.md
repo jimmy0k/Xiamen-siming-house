@@ -10,5 +10,5 @@
     - 4、构建基于机器学习的房价预测模型
     - 5、预测房价
 
-建筑面积和房屋总价的数据图
+建筑面积和房屋总价的拟合图
 ![Image text](https://github.com/jimmy0k/Xiamen-siming-house/blob/master/data.png)
