@@ -9,3 +9,5 @@
     - 3、进行数据可视化
     - 4、构建基于机器学习的房价预测模型
     - 5、预测房价
+    
+![Image text](https://github.com/jimmy0k/Xiamen-siming-house/blob/master/data.png)
